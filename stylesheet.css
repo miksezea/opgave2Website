@@ -4,10 +4,10 @@ body {
 .container-fluid {
     text-align: left;
 }
-.center {
+.row {
     text-align: center;
 }
-.row {
+#mig {
     text-align: center;
 }
 #info {
